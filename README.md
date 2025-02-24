@@ -1,1 +1,1 @@
-# weather-rest-app
+# Weather Rest Application
